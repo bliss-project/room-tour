@@ -1,0 +1,24 @@
+.container {
+
+    height:706px;
+    width:877px;
+    overflow:scroll;
+    margin:auto
+}
+
+.container img {
+    height:706px;
+    width:1754px
+}
+
+.container .btn_bed {
+  position: absolute;
+  top: 49%;
+  left: 49.7%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  padding: 168px 285px;
+  border: none;
+  cursor: pointer;
+}
